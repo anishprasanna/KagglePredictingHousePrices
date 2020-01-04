@@ -1,4 +1,4 @@
-Submission to Kaggle's Boston Housing Competition. 
+Submission to Kaggle's Ames Housing Competition. 
 Transforms and normalizes/discretizes both categorical and numerical features.
 Compares the efficacy of the following parameter optimized algoritms:
   KNN,
